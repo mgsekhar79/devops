@@ -1,2 +1,1 @@
-# devops
-devops2
+Guna is learnng devops and aws
